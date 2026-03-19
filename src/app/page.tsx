@@ -73,7 +73,7 @@ export default function LandingPage() {
             { title: "Aesthetic Excellence", description: "Expert in cosmetic and aesthetic dental procedures for beautiful smiles", icon: Smile },
             { title: "Medical Verification", description: "Medical registration verified and recognized by dental authorities", icon: Shield }
           ]}
-          imageSrc="http://img.b2bpic.net/free-photo/portrait-young-female-dentist-mask-dentistry-concept-dental-treatment_169016-67082.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B9hHkoTLDJfAqAALjpHHTAkp7o/uploaded-1773907414459-gujdezdo.webp"
           imageAlt="Dr. Kalpana Sharma Rai - Endodontist and Cosmetic Dentist"
           mediaAnimation="slide-up"
           imagePosition="right"
