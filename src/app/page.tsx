@@ -63,7 +63,7 @@ export default function LandingPage() {
       <div id="about" data-section="about">
         <SplitAbout
           title="About Dr. Kalpana Sharma Rai"
-          description="Dr. Kalpana Sharma Rai is an accomplished Endodontist, Cosmetic/Aesthetic Dentist, and Dental Surgeon with 18 years of overall experience, of which 13 years are as a specialist. She has been practicing in Bhopal, Indore, and Jabalpur, providing exceptional dental care with a focus on patient comfort and aesthetic excellence."
+          description="Dr. Kalpana Sharma Rai is an accomplished Endodontist, Cosmetic/Aesthetic Dentist, and Dental Surgeon with 18 years of overall experience, of which 13 years are as a specialist. She has been practicing in Bhopal, Indore, and Jabalpur, providing exceptional dental care with a focus on patient comfort and aesthetic excellence.Presently working as Associate Professor at Peoples dental Academy, Peoples University Bhopal"
           tag="Meet Your Doctor"
           tagIcon={Heart}
           tagAnimation="slide-up"
